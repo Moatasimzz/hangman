@@ -6,43 +6,43 @@
 
 .head {
   position: absolute;
-  left: 220px;
-  top: 20px;
+  left: 215px;
+  top: 110px;
   display: none;
 }
 
 .body {
   position: absolute;
   left: 230px; 
-  top: 60px;
+  top: 125;
   display: none; 
 }
 
 .left-hand {
   position: absolute;
-  left: 190px;
-  top: 100px;  
+  left: 200px;
+  top: 157px;  
   display: none; 
 }
 
 .right-hand {
   position: absolute;
-  left: 270px;
-  top: 100px;
+  left: 230px;
+  top: 157px;
   display: none; 
 }
 
 .left-leg {
   position: absolute;
-  left: 210px;
-  top: 160px; 
+  left: 200px;
+  top: 216px; 
   display: none; 
 }
 
 .right-leg {
   position: absolute;
-  left: 250px;
-  top: 160px; 
+  left: 255px;
+  top: 216px; 
   display: none;
 }
 
